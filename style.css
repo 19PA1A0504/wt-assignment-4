@@ -1,0 +1,38 @@
+body{
+    background-image: url("https://previews.123rf.com/images/stokato/stokato1108/stokato110800072/10400355-frame-from-group-books-isolated-on-white-background.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    padding-top: 15px;
+    
+  }
+  #one{
+    padding-left: 500px;
+    padding-top:200px;
+    font-size: 30px;
+  }
+  label{
+    font-size:50px;
+    
+  }
+  #userid{
+    border: 2px solid #42f56c;
+    border-radius: 12px;
+  }
+  #pass{
+  border: 2px solid #42f56c;
+    border-radius: 12px;
+  }
+  #mailid{
+    border: 2px solid #42f56c;
+    border-radius: 12px;
+  }
+  #phone{
+  border: 2px solid #42f56c;
+    border-radius: 12px;
+  }
+  #submit{
+  border: 2px solid greenyellow;
+    border-radius: 12px;
+  }
