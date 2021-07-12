@@ -9,3 +9,5 @@ I created a table named "myguest1" in my database "mynewdb" with the column name
 <img src="https://github.com/19PA1A0504/wt-assignment-4/blob/main/Screenshot%20(11).png">
 
 <img src="https://github.com/19PA1A0504/wt-assignment-4/blob/main/Screenshot%20(12).png">
+
+<img src="https://github.com/19PA1A0504/wt-assignment-4/blob/main/Screenshot%20(13).png">
